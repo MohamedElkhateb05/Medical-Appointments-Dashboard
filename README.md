@@ -1,4 +1,6 @@
 🩺 Medical Appointments Dashboard
+
+
 🎯 Project Overview
 This is an interactive data dashboard built using Python, Dash, and Plotly to analyze the "Medical Appointment No Show" dataset. The primary goal of this project is to provide meaningful, data-driven insights into the factors that influence whether patients show up for their scheduled medical appointments.
 
